@@ -70,10 +70,6 @@ dependencies {
             
 }
 
-test {
-    systemProperties 'webdriver.chrome.driver': '/gof-katas-base-java/src/test/resources/info/cosmicsand/gofkatas/base/webdriver/chrome/chromedriver'
-}
-
 uploadArchives {
     repositories {
        flatDir {
