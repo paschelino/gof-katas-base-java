@@ -10,3 +10,6 @@
 /.project
 /.classpath
 /build
+
+# other textual artifacts
+*.log
